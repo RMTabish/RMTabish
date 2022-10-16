@@ -1,3 +1,10 @@
+Hi I'm Tabish
+I'm a passionate coder with the expertise in C++ sometimes misses the ';' but ofcourse language is just a barrier that a computer scientists love to break.
 
-So my name is rai m tabish and i am currentely a student of bachelors in computer science in FAST unisversity islamabad im intrested in c++ python and html/css
-i do have a relatively good command on c++ by far as per what i have learned so far including the oop concepts of c++ and im learning it more each day every day.
+Skills: Object-Oriented-Programming ,Data-structures and Algorithims ,File Handling(also data files) ,Game-development ,Web-development
+
+Languages: C++ ,JAVA ,C ,PYTHON ,C# ,HTML5 ,CSS ,Assembly(x86 masm).
+
+Reach me at:
+-> linkedin.com/in/rai-muhammad-tabish
+-> raimuhammadtabish@gmail.com
