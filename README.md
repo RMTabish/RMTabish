@@ -15,8 +15,8 @@ Software Engineer • Data Engineering Specialist • Systems Designer
 ---
 
 ## Selected Technologies
-**Languages:** Python, C++, Go, Java, TypeScript 
-**Infrastructure:** Docker, Kubernetes, NGINX, Jenkins  
+**Languages:** Python, C++, Go, Java, TypeScript  
+**Infrastructure:** Docker, Kubernetes, NGINX, Jenkins 
 **Data Systems:** Kafka, Spark, Airflow, Hadoop  
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Cloud:** AWS, Azure  
