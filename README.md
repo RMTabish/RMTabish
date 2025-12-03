@@ -25,7 +25,6 @@ Software Engineer • Data Engineering Specialist • Systems Designer
 
 ## Connect
 - **LinkedIn:** https://linkedin.com/in/rai-muhammad-tabish  
-- **X (Twitter):** https://x.com/rai_tabish
 - **Company Profile:** https://anviro.net/
 - **Website:** https://raitabish.com/
 
